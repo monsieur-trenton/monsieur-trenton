@@ -10,4 +10,5 @@ I'm building this solo, nights and weekends. If that's something you want to see
 
 - 🔭 Currently building: a proficiency-aware conversation partner + listening comprehension for Concordance
 - 📖 Read more about the project: [monsieur-trenton/concordance](https://github.com/monsieur-trenton/concordance)
+- 🛠️ Also built: [text-generator](https://github.com/monsieur-trenton/text-generator) — a tool for generating contextualized vocabulary gap-fill activities
 - 💬 Questions or ideas? Open an issue on the project repo above.
