@@ -9,7 +9,7 @@ French is live today. Spanish is next, with the same proficiency-first design ex
 I'm building this solo, nights and weekends. If that's something you want to see exist, [sponsoring](https://github.com/sponsors/monsieur-trenton) is the most direct way to help.
 
 - 🔭 Currently building: a proficiency-aware conversation partner + listening comprehension for Concordance
-- 🌐 Try it: [concordancelearn.com](https://www.concordancelearn.com/)
+- 🌐 Try it: [concordancelearn.com](https://concordancelearn.com/)
 - 📖 Read more about the project: [monsieur-trenton/concordance](https://github.com/monsieur-trenton/concordance)
 - 🛠️ Also built: [text-generator](https://github.com/monsieur-trenton/text-generator) — a tool for generating contextualized vocabulary gap-fill activities
 - 💬 Questions or ideas? Open an issue on the project repo above.
