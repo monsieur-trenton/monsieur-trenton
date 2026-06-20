@@ -1,11 +1,13 @@
 ### Hi, I'm John Trenton 👋
 
-I build **[Concordance](https://github.com/monsieur-trenton/concordance)** — an AI-driven French learning platform built on validated proficiency frameworks (ACTFL, AAPPL, CEFR) instead of streaks and vocabulary games. It's used by real students and teachers, and the core proficiency-encoding engine is the result of a lot of iteration on how AI-generated content, adaptive practice, and progress tracking should actually map to communicative competence.
+I'm a French teacher who built **[Concordance](https://github.com/monsieur-trenton/concordance)** because students don't need more exam cramming — they need real proficiency: grammar that sticks, reading and writing skills that transfer beyond a single test (think AP and AAPPL). I'm not an engineer by training; Claude (Anthropic) has been my development partner throughout, both for generating practice content I personally review and for building the platform itself.
 
-**Right now, I'm raising support to fund the next milestone: AI-generated audio** — listening passages and spoken-response evaluation, so interpretive listening and interpersonal speaking get the same depth of proficiency-targeted practice that reading and writing already have.
+French is live today. Spanish is next, with the same proficiency-first design extending to whatever language Concordance grows into.
 
-If that's something you want to see exist, [sponsoring](https://github.com/sponsors/monsieur-trenton) is the most direct way to help.
+**What I'm building next:** a conversation partner built specifically to move students up the proficiency ladder — not chat for its own sake — plus listening comprehension activities and AI tools for teachers to generate content and see where their students are struggling.
 
-- 🔭 Currently building: audio generation for Concordance
+I'm building this solo, nights and weekends. If that's something you want to see exist, [sponsoring](https://github.com/sponsors/monsieur-trenton) is the most direct way to help.
+
+- 🔭 Currently building: a proficiency-aware conversation partner + listening comprehension for Concordance
 - 📖 Read more about the project: [monsieur-trenton/concordance](https://github.com/monsieur-trenton/concordance)
 - 💬 Questions or ideas? Open an issue on the project repo above.
