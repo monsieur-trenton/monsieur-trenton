@@ -58,6 +58,5 @@ Monthly tiers: Ami ($3), Soutien ($8), Bâtisseur ($15), Mécène ($25), and Par
 
 ## Get in touch
 
-- **Email:** john.trenton@gmail.com
 - **Site:** [concordancelearn.com](https://concordancelearn.com)
 - **LinkedIn:** [linkedin.com/in/john-trenton](https://www.linkedin.com/in/john-trenton)
